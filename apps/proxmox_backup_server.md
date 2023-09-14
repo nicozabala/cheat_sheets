@@ -1,4 +1,4 @@
-### Recomendaciones sobre configuracion de Proxmox Backup Server
+## Recomendaciones sobre configuracion de Proxmox Backup Server
 
 - Instalarlo on-premise en lo posible, para no tener que configurar network paths, permisos y routes.
 - La version free cumple todas las necesidades, solo por el soporte es distinta
