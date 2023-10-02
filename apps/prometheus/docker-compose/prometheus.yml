@@ -1,0 +1,18 @@
+# Para poder usar este docker-compose hay que crear en el host el archivo prometheus.yml, en este caso se ubica en /etc/prometheus/ 
+
+version: '3'
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - /etc/prometheus:/etc/prometheus
+    command:
+      - --config.file=/etc/prometheus/prometheus.yaml
+    networks:
+      - monitoring
+networks:
+  monitoring:
