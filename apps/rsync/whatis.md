@@ -1,0 +1,1 @@
+Es un sincronizador de archivos con un storage
