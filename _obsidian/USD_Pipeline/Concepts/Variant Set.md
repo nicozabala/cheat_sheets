@@ -1,0 +1,1 @@
+Es un grupo de variantes, por ejemplo variantes de material puede ser uno y otro set ser variantes de animacion.

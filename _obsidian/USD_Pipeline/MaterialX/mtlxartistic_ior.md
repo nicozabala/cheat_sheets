@@ -1,0 +1,1 @@
+Permite controlar los colores en shaders ([[mtlxconductor]]) metálicos por ejemplo.

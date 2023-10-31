@@ -1,0 +1,1 @@
+Sirve para hacer una especie de preview de las [[Variant]] de un [[LOP Component]]

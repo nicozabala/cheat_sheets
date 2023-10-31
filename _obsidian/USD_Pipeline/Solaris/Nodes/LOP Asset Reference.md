@@ -1,0 +1,1 @@
+Sirve para traer un asset completo de un USD, permitiendo entre otras cosas seleccionar variants.

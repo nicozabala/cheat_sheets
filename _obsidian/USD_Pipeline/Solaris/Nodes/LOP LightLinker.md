@@ -1,0 +1,1 @@
+Light-linking es relacionar luces con objetos, seleccionando y filtrando como se afectan entre si.

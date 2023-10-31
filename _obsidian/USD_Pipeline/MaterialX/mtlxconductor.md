@@ -1,0 +1,1 @@
+Este se usa para hacer metales, los colores estan representados de una manera bastante tecnica, para hacerlo mas amigable se usa [[mtlxartistic_ior]] y se conecta a "ior"

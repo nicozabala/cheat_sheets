@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "ffb1232357c7c4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e9f79bc4987e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e86ce980c422101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solaris/Nodes/LOP ComponentGeometryVariant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07a837b27bbcdf86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bdfe345257913e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a428ab4df698dbb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "864ab08ab4eb0076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebb78d4de07a8566",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "5461cbc1ceb73421",
+    "type": "split",
+    "children": [
+      {
+        "id": "d751d7928c4314c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39d7fe9aaec4de2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solaris/Nodes/LOP ComponentGeometryVariant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2375a1d68575e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solaris/Nodes/LOP ComponentGeometryVariant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c1041d7d17c194f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bec7ad875be9673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solaris/Nodes/LOP ComponentGeometryVariant.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0e86ce980c422101",
+  "lastOpenFiles": [
+    "Solaris/Nodes/LOP Component.md",
+    "Solaris/Nodes/LOP ComponentGeometryVariant.md",
+    "Solaris/Nodes/LOP ExporeVariants.md",
+    "Concepts/Sublayering.md",
+    "Concepts/Variant Set.md",
+    "MaterialX/mtlxdielectrix_bsdf.md",
+    "MaterialX/mtlxconductor.md",
+    "MaterialX/mtlxburley_diffuse_bsdf.md",
+    "MaterialX/mtlxartistic_ior.md",
+    "Solaris/Nodes/LOP SceneImport.md",
+    "Solaris/Nodes/LOP SOP Modify.md",
+    "Solaris/Nodes/LOP SOP Import.md",
+    "Solaris/Nodes/LOP SetVariant.md",
+    "Useful Links.md",
+    "Solaris/Nodes/LOP Asset Reference.md",
+    "Toolset/usdview.md",
+    "Glossary/Composition.md",
+    "Glossary/Layer.md",
+    "Glossary/Kind.md",
+    "Solaris/Nodes/LOP AssignMaterial.md",
+    "Solaris/Nodes/LOP StageManager.md",
+    "Solaris/Nodes/LOP ConfigureStage.md",
+    "Glossary/Payload.md",
+    "Glossary/USD.md",
+    "Solaris/Nodes/LOP Reference.md",
+    "Solaris/LOPs.md",
+    "Glossary",
+    "Solaris/Workflows",
+    "MaterialX",
+    "Concepts",
+    "Solaris/Nodes",
+    "Solaris",
+    "Toolset"
+  ]
+}

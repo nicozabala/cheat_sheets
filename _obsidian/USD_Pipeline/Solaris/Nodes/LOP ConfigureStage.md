@@ -1,0 +1,1 @@
+Se usa para guardar el estado de visualización de los [[Payloads]]. Se puede crear desde el icono del Scene Graph que es una mascarita.

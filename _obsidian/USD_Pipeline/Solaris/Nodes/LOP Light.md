@@ -1,0 +1,1 @@
+Este nodo permite tanto crear como editar luces ya existentes

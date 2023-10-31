@@ -1,0 +1,1 @@
+Es la forma de unir Shaders, por ejemplo Diffuse y Reflection. Es como un merge

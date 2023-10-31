@@ -1,0 +1,1 @@
+Es como un merge donde se conectan todas las variantes de geometría
