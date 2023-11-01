@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Path.md",
+                "file": "Solaris/LOPs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Path.md",
+                "file": "Solaris/LOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Path.md",
+                "file": "Solaris/LOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Path.md"
+                "file": "Solaris/LOPs.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a428ab4df698dbb5",
   "lastOpenFiles": [
+    "Glossary/Path.md",
     "Glossary/Layer Stack.md",
     "Glossary/Kind.md",
     "Glossary/Composition.md",
@@ -173,7 +174,6 @@
     "Solaris/Nodes/LOP ConfigureStage.md",
     "Glossary/Payload.md",
     "Glossary/USD.md",
-    "Solaris/Nodes/LOP Reference.md",
     "Glossary",
     "Solaris/Workflows",
     "MaterialX",
