@@ -1,0 +1,1 @@
+Basicamente genera una caja volumetrica util para hacer volume lighting.
