@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solaris/LOPs.md"
+                "file": "Glossary/Collection.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428ab4df698dbb5",
+  "active": "0e86ce980c422101",
   "lastOpenFiles": [
+    "Solaris/LOPs.md",
+    "Glossary/Collection.md",
     "Glossary/Path.md",
     "Glossary/Layer Stack.md",
     "Glossary/Kind.md",
@@ -172,8 +174,6 @@
     "Solaris/Nodes/LOP AssignMaterial.md",
     "Solaris/Nodes/LOP StageManager.md",
     "Solaris/Nodes/LOP ConfigureStage.md",
-    "Glossary/Payload.md",
-    "Glossary/USD.md",
     "Glossary",
     "Solaris/Workflows",
     "MaterialX",
