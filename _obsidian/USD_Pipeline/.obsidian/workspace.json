@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Solaris/LOPs.md",
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Solaris/LOPs.md",
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Solaris/LOPs.md",
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md"
+=======
+                "file": "Solaris/LOPs.md"
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
               }
             }
           }
@@ -146,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e86ce980c422101",
+  "active": "a428ab4df698dbb5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Solaris/Nodes/LOP Asset Reference.md",
     "Solaris/Nodes/LOP FogBox.md",
     "Solaris/Nodes/LOP ConfigureStage.md",
@@ -161,6 +178,12 @@
     "Toolset/usdview.md",
     "Glossary/Stage Traversal.md",
     "Glossary/Stage.md",
+=======
+    "Glossary/Path.md",
+    "Glossary/Layer Stack.md",
+    "Glossary/Kind.md",
+    "Glossary/Composition.md",
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
     "Concepts/Variant Set.md",
     "Concepts/Sublayering.md",
     "Solaris/Nodes/LOP ComponentGeometryVariant.md",
@@ -175,6 +198,17 @@
     "Solaris/Nodes/LOP SOP Import.md",
     "Solaris/Nodes/LOP SetVariant.md",
     "Useful Links.md",
+<<<<<<< HEAD
+=======
+    "Solaris/Nodes/LOP Asset Reference.md",
+    "Toolset/usdview.md",
+    "Glossary/Layer.md",
+    "Solaris/Nodes/LOP AssignMaterial.md",
+    "Solaris/Nodes/LOP StageManager.md",
+    "Solaris/Nodes/LOP ConfigureStage.md",
+    "Glossary/Payload.md",
+    "Glossary/USD.md",
+>>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
     "Glossary",
     "Solaris/Workflows",
     "MaterialX",
