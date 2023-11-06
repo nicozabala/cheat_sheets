@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Collection.md"
+                "file": "Concepts/Asset-Structure Guidelines.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "0e86ce980c422101",
   "lastOpenFiles": [
+    "Glossary/LIVRPS.md",
+    "Concepts/Asset-Structure Guidelines.md",
+    "Toolset/usdview.md",
+    "Concepts/Sublayering.md",
+    "Concepts/Variant Set.md",
+    "Glossary/Purpose.md",
+    "Solaris/Nodes/LOP RenderGeometrySettings.md",
     "Solaris/LOPs.md",
     "Glossary/Collection.md",
     "Glossary/Path.md",
     "Glossary/Layer Stack.md",
     "Glossary/Kind.md",
     "Glossary/Composition.md",
-    "Concepts/Variant Set.md",
-    "Concepts/Sublayering.md",
     "Solaris/Nodes/LOP ComponentGeometryVariant.md",
     "Solaris/Nodes/LOP Component.md",
     "Solaris/Nodes/LOP ExporeVariants.md",
@@ -169,11 +174,6 @@
     "Solaris/Nodes/LOP SetVariant.md",
     "Useful Links.md",
     "Solaris/Nodes/LOP Asset Reference.md",
-    "Toolset/usdview.md",
-    "Glossary/Layer.md",
-    "Solaris/Nodes/LOP AssignMaterial.md",
-    "Solaris/Nodes/LOP StageManager.md",
-    "Solaris/Nodes/LOP ConfigureStage.md",
     "Glossary",
     "Solaris/Workflows",
     "MaterialX",
