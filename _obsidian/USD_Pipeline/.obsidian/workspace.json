@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "ffb1232357c7c4a6",
+    "id": "e7638102cbdf980f",
     "type": "split",
     "children": [
       {
-        "id": "62e9f79bc4987e6b",
+        "id": "35c8ae4397b754cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e86ce980c422101",
+            "id": "32f15829d2a997e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Solaris/LOPs.md",
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "07a837b27bbcdf86",
+    "id": "8345db3ef8187770",
     "type": "split",
     "children": [
       {
-        "id": "c6bdfe345257913e",
+        "id": "07cd4429c02d3a06",
         "type": "tabs",
         "children": [
           {
-            "id": "a428ab4df698dbb5",
+            "id": "c46fa7c5abcedabe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "864ab08ab4eb0076",
+            "id": "1098a3c1fa230474",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "ebb78d4de07a8566",
+            "id": "3d7a60fed2e0d011",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "right": {
-    "id": "5461cbc1ceb73421",
+    "id": "838c000a27586bc9",
     "type": "split",
     "children": [
       {
-        "id": "d751d7928c4314c6",
+        "id": "9c098a70033ac6a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e39d7fe9aaec4de2",
+            "id": "d69eaa6d6ae3d6aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Solaris/LOPs.md",
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "2375a1d68575e7bf",
+            "id": "279f38af24e035a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Solaris/LOPs.md",
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9c1041d7d17c194f",
+            "id": "460e5f98f5177a3d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "4bec7ad875be9673",
+            "id": "10b198712e991136",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md"
-=======
-                "file": "Solaris/LOPs.md"
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
               }
             }
           }
@@ -162,59 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a428ab4df698dbb5",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Solaris/Nodes/LOP Asset Reference.md",
-    "Solaris/Nodes/LOP FogBox.md",
-    "Solaris/Nodes/LOP ConfigureStage.md",
-    "Solaris/Nodes/Untitled",
-    "Solaris/Nodes/LOP Sublayer.md",
-    "Solaris/Nodes/LOP Reference.md",
-    "Solaris/Nodes/LOP AssignMaterial.md",
-    "Solaris/Workflows/Light Geometry.md",
-    "Solaris/Workflows/Geometry Subdivision.md",
-    "Solaris/LOPs.md",
-    "Toolset/usdview.md",
-    "Glossary/Stage Traversal.md",
-    "Glossary/Stage.md",
-=======
-    "Glossary/Path.md",
-    "Glossary/Layer Stack.md",
-    "Glossary/Kind.md",
-    "Glossary/Composition.md",
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
-    "Concepts/Variant Set.md",
-    "Concepts/Sublayering.md",
-    "Solaris/Nodes/LOP ComponentGeometryVariant.md",
-    "Solaris/Nodes/LOP Component.md",
-    "Solaris/Nodes/LOP ExporeVariants.md",
-    "MaterialX/mtlxdielectrix_bsdf.md",
-    "MaterialX/mtlxconductor.md",
-    "MaterialX/mtlxburley_diffuse_bsdf.md",
-    "MaterialX/mtlxartistic_ior.md",
-    "Solaris/Nodes/LOP SceneImport.md",
-    "Solaris/Nodes/LOP SOP Modify.md",
-    "Solaris/Nodes/LOP SOP Import.md",
-    "Solaris/Nodes/LOP SetVariant.md",
-    "Useful Links.md",
-<<<<<<< HEAD
-=======
-    "Solaris/Nodes/LOP Asset Reference.md",
-    "Toolset/usdview.md",
-    "Glossary/Layer.md",
-    "Solaris/Nodes/LOP AssignMaterial.md",
-    "Solaris/Nodes/LOP StageManager.md",
-    "Solaris/Nodes/LOP ConfigureStage.md",
-    "Glossary/Payload.md",
-    "Glossary/USD.md",
->>>>>>> 049cbe6a134559d720aece6bc33f787884b6daca
-    "Glossary",
-    "Solaris/Workflows",
-    "MaterialX",
-    "Concepts",
-    "Solaris/Nodes",
-    "Solaris",
-    "Toolset"
-  ]
+  "active": "32f15829d2a997e9",
+  "lastOpenFiles": []
 }
