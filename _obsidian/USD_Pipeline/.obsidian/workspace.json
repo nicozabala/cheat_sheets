@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md",
+=======
+                "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Solaris/Nodes/LOP FogBox.md"
+=======
+                "file": "Concepts/Asset-Structure Guidelines.md"
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
               }
             }
           }
@@ -146,6 +162,45 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "32f15829d2a997e9",
   "lastOpenFiles": []
+=======
+  "active": "0e86ce980c422101",
+  "lastOpenFiles": [
+    "Glossary/LIVRPS.md",
+    "Concepts/Asset-Structure Guidelines.md",
+    "Toolset/usdview.md",
+    "Concepts/Sublayering.md",
+    "Concepts/Variant Set.md",
+    "Glossary/Purpose.md",
+    "Solaris/Nodes/LOP RenderGeometrySettings.md",
+    "Solaris/LOPs.md",
+    "Glossary/Collection.md",
+    "Glossary/Path.md",
+    "Glossary/Layer Stack.md",
+    "Glossary/Kind.md",
+    "Glossary/Composition.md",
+    "Solaris/Nodes/LOP ComponentGeometryVariant.md",
+    "Solaris/Nodes/LOP Component.md",
+    "Solaris/Nodes/LOP ExporeVariants.md",
+    "MaterialX/mtlxdielectrix_bsdf.md",
+    "MaterialX/mtlxconductor.md",
+    "MaterialX/mtlxburley_diffuse_bsdf.md",
+    "MaterialX/mtlxartistic_ior.md",
+    "Solaris/Nodes/LOP SceneImport.md",
+    "Solaris/Nodes/LOP SOP Modify.md",
+    "Solaris/Nodes/LOP SOP Import.md",
+    "Solaris/Nodes/LOP SetVariant.md",
+    "Useful Links.md",
+    "Solaris/Nodes/LOP Asset Reference.md",
+    "Glossary",
+    "Solaris/Workflows",
+    "MaterialX",
+    "Concepts",
+    "Solaris/Nodes",
+    "Solaris",
+    "Toolset"
+  ]
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
 }
