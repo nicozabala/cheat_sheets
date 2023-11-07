@@ -31,6 +31,16 @@ Cada vez que se modifica un asset, es un nuevo asset, el anterior no deberia per
 Lo bueno de USD es que entiende que los assets evolucionan de departamento en departamento
 ```
 
+## Illume Webinar - USD Pipelines
+
+En este video habla de como estructurar pipelines en usd
+- Habla de los Purpose para Render/Proxy
+- Entrevista a Chris Rydalch que es de Blue Sky y cuenta como implementaron USD junto con Conduit
+- Da un ejemplo de estructura de archivos en carpetas muy bueno
+- Habla de la forma de diseñar el network Sandwiches vs Subnetworks
+- Cuenta un poco como se va instalando rapidamente USD en varios estudios
+- 
+
 ### $HSITE y $JOB son las variables a usar
 
 Para ver como resuelve los path Houdini usar en el shell
