@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solaris/Workflows/Asset Directory File Structure.md",
+                "file": "Solaris/Nodes/LOP FogBox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solaris/Workflows/Asset Directory File Structure.md",
+                "file": "Solaris/Nodes/LOP FogBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solaris/Workflows/Asset Directory File Structure.md",
+                "file": "Solaris/Nodes/LOP FogBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solaris/Workflows/Asset Directory File Structure.md"
+                "file": "Solaris/Nodes/LOP FogBox.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f7f517c4c669359b",
   "lastOpenFiles": [
-    "Solaris/Workflows/Geometry Subdivision.md",
     "Solaris/Workflows/Light Geometry.md",
+    "Solaris/Workflows/Geometry Subdivision.md",
+    "Solaris/Workflows/Asset Directory File Structure.md",
     "Toolset/usdview.md",
     "Useful Links.md"
   ]
