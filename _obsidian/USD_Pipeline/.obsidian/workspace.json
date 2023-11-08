@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "e7638102cbdf980f",
+    "id": "3b2426b5b622a32c",
     "type": "split",
     "children": [
       {
-        "id": "35c8ae4397b754cf",
+        "id": "fe67d5593734c71a",
         "type": "tabs",
         "children": [
           {
-            "id": "32f15829d2a997e9",
+            "id": "f7f517c4c669359b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Concepts/Asset-Structure Guidelines.md",
->>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
+                "file": "Solaris/Workflows/Asset Directory File Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8345db3ef8187770",
+    "id": "f2c8ccd27e4ee6cc",
     "type": "split",
     "children": [
       {
-        "id": "07cd4429c02d3a06",
+        "id": "e3e4ace3408fe337",
         "type": "tabs",
         "children": [
           {
-            "id": "c46fa7c5abcedabe",
+            "id": "cadd766d248dd4b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "1098a3c1fa230474",
+            "id": "e5b6399b130d4945",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "3d7a60fed2e0d011",
+            "id": "84c09cf28330cd35",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "838c000a27586bc9",
+    "id": "f0c98b9789befb26",
     "type": "split",
     "children": [
       {
-        "id": "9c098a70033ac6a2",
+        "id": "37d2a80ed59288a9",
         "type": "tabs",
         "children": [
           {
-            "id": "d69eaa6d6ae3d6aa",
+            "id": "46fa0d737aaab96c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Concepts/Asset-Structure Guidelines.md",
->>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
+                "file": "Solaris/Workflows/Asset Directory File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "279f38af24e035a8",
+            "id": "7f8e674770d3f044",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Solaris/Nodes/LOP FogBox.md",
-=======
-                "file": "Concepts/Asset-Structure Guidelines.md",
->>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
+                "file": "Solaris/Workflows/Asset Directory File Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "460e5f98f5177a3d",
+            "id": "e354b3f5b12e18be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "10b198712e991136",
+            "id": "d4cf7a0babeb1e26",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Solaris/Nodes/LOP FogBox.md"
-=======
-                "file": "Concepts/Asset-Structure Guidelines.md"
->>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
+                "file": "Solaris/Workflows/Asset Directory File Structure.md"
               }
             }
           }
@@ -162,45 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "32f15829d2a997e9",
-  "lastOpenFiles": []
-=======
-  "active": "0e86ce980c422101",
+  "active": "f7f517c4c669359b",
   "lastOpenFiles": [
-    "Glossary/LIVRPS.md",
-    "Concepts/Asset-Structure Guidelines.md",
+    "Solaris/Workflows/Geometry Subdivision.md",
+    "Solaris/Workflows/Light Geometry.md",
     "Toolset/usdview.md",
-    "Concepts/Sublayering.md",
-    "Concepts/Variant Set.md",
-    "Glossary/Purpose.md",
-    "Solaris/Nodes/LOP RenderGeometrySettings.md",
-    "Solaris/LOPs.md",
-    "Glossary/Collection.md",
-    "Glossary/Path.md",
-    "Glossary/Layer Stack.md",
-    "Glossary/Kind.md",
-    "Glossary/Composition.md",
-    "Solaris/Nodes/LOP ComponentGeometryVariant.md",
-    "Solaris/Nodes/LOP Component.md",
-    "Solaris/Nodes/LOP ExporeVariants.md",
-    "MaterialX/mtlxdielectrix_bsdf.md",
-    "MaterialX/mtlxconductor.md",
-    "MaterialX/mtlxburley_diffuse_bsdf.md",
-    "MaterialX/mtlxartistic_ior.md",
-    "Solaris/Nodes/LOP SceneImport.md",
-    "Solaris/Nodes/LOP SOP Modify.md",
-    "Solaris/Nodes/LOP SOP Import.md",
-    "Solaris/Nodes/LOP SetVariant.md",
-    "Useful Links.md",
-    "Solaris/Nodes/LOP Asset Reference.md",
-    "Glossary",
-    "Solaris/Workflows",
-    "MaterialX",
-    "Concepts",
-    "Solaris/Nodes",
-    "Solaris",
-    "Toolset"
+    "Useful Links.md"
   ]
->>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
 }

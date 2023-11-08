@@ -10,3 +10,4 @@ Assets/.                                # Main Asset Directory containing all US
         BarrelsNoLid.usd (usdc)         # GeometryCache USD file. Save as crate. Variant Option
         BarrelsAsset.usd (usda)         # Reference in Barrel Geometry Variants. Optional save as ASCII
         Barrels.usd (usda)              # Reference in Assets and Materials. Optional save as ASCII. Variant Option
+    
