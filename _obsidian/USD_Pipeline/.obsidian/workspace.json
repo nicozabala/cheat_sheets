@@ -1,19 +1,23 @@
 {
   "main": {
-    "id": "ffb1232357c7c4a6",
+    "id": "e7638102cbdf980f",
     "type": "split",
     "children": [
       {
-        "id": "62e9f79bc4987e6b",
+        "id": "35c8ae4397b754cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e86ce980c422101",
+            "id": "32f15829d2a997e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Solaris/Nodes/LOP FogBox.md",
+=======
                 "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "07a837b27bbcdf86",
+    "id": "8345db3ef8187770",
     "type": "split",
     "children": [
       {
-        "id": "c6bdfe345257913e",
+        "id": "07cd4429c02d3a06",
         "type": "tabs",
         "children": [
           {
-            "id": "a428ab4df698dbb5",
+            "id": "c46fa7c5abcedabe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "864ab08ab4eb0076",
+            "id": "1098a3c1fa230474",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +62,7 @@
             }
           },
           {
-            "id": "ebb78d4de07a8566",
+            "id": "3d7a60fed2e0d011",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +73,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "right": {
-    "id": "5461cbc1ceb73421",
+    "id": "838c000a27586bc9",
     "type": "split",
     "children": [
       {
-        "id": "d751d7928c4314c6",
+        "id": "9c098a70033ac6a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e39d7fe9aaec4de2",
+            "id": "d69eaa6d6ae3d6aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Solaris/Nodes/LOP FogBox.md",
+=======
                 "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,23 @@
             }
           },
           {
-            "id": "2375a1d68575e7bf",
+            "id": "279f38af24e035a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Solaris/Nodes/LOP FogBox.md",
+=======
                 "file": "Concepts/Asset-Structure Guidelines.md",
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9c1041d7d17c194f",
+            "id": "460e5f98f5177a3d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +132,16 @@
             }
           },
           {
-            "id": "4bec7ad875be9673",
+            "id": "10b198712e991136",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Solaris/Nodes/LOP FogBox.md"
+=======
                 "file": "Concepts/Asset-Structure Guidelines.md"
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
               }
             }
           }
@@ -146,6 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "32f15829d2a997e9",
+  "lastOpenFiles": []
+=======
   "active": "0e86ce980c422101",
   "lastOpenFiles": [
     "Glossary/LIVRPS.md",
@@ -182,4 +202,5 @@
     "Solaris",
     "Toolset"
   ]
+>>>>>>> 31d68d482e5582e376482635ff3350025f1f311b
 }
