@@ -47,3 +47,18 @@ OPlibraries\
 OPmenu\
 PaneTabTypeMenu
 
+Ejemplo que estoy usando en Bleed
+
+```json
+{
+    "env" : [
+        {"RECENT":"R:"},
+        {"ACTIVE":"A:"},
+        {"LIBRARY":"L:"},
+        {"RD":"X:"},
+        {"DVFX":"P:"}
+    ],
+
+    "hpath" : [ "$DVFX/houpackage" ]
+}
+```
