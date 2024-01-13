@@ -1,0 +1,1 @@
+Es conceptualmente cuando se define algo, se dice que tiene una opinion sobre X. Por ejemplo, un Xform puede tener una opinion sobre un primitive que sea moverlo.

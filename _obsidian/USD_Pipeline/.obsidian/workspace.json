@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "006c6ebd1768dd28",
+        "id": "973bba004c3714db",
         "type": "tabs",
         "children": [
           {
-            "id": "b276c9afc7acb308",
+            "id": "d0d3ce0967bbdaf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Sublayering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Sublayering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Sublayering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concepts/Sublayering.md"
+              }
             }
           }
         ]
@@ -138,16 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b276c9afc7acb308",
+  "active": "d0d3ce0967bbdaf8",
   "lastOpenFiles": [
-    "Compiling and Installation.md",
-    "Studio Structure.canvas",
+    "Solaris/Nodes/LOP Sublayer.md",
+    "Solaris/Nodes/LOP Reference.md",
+    "Solaris/Nodes/LOP LightLinker.md",
+    "Solaris/Nodes/LOP Light.md",
     "Solaris/Nodes/LOP FogBox.md",
-    "Solaris/Workflows/GeoVariants Animal Login.md",
-    "Solaris/Workflows/Light Geometry.md",
-    "Solaris/Workflows/Geometry Subdivision.md",
-    "Solaris/Workflows/Asset Directory File Structure.md",
-    "Toolset/usdview.md",
-    "Useful Links.md"
+    "Solaris/Nodes/LOP AssignMaterial.md",
+    "Solaris/Nodes/LOP Asset Reference.md",
+    "MaterialX/mtlxconductor.md",
+    "MaterialX/mtlxburley_diffuse_bsdf.md",
+    "MaterialX/mtlxartistic_ior.md",
+    "Glossary/Layer.md",
+    "Glossary/Layer Stack.md",
+    "Glossary/LIVRPS.md",
+    "Glossary/Metadata.md",
+    "Glossary/Opinions.md",
+    "Glossary/Overrides.md",
+    "Glossary/Path.md",
+    "Glossary/Payload.md",
+    "Glossary/Prims.md",
+    "Glossary/Properties.md",
+    "Glossary/Purpose.md",
+    "Glossary/Stage.md",
+    "Glossary/Collection.md",
+    "Glossary/Composition.md",
+    "Solaris/LOPs.md",
+    "Solaris/Nodes/LOP RenderGeometrySettings.md",
+    "Studio Structure.canvas"
   ]
 }
