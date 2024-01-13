@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"28e19b7ccfc76199","type":"group","x":-680,"y":-380,"width":1740,"height":887,"label":"Studio"},
+		{"id":"e80d01af6a8c8a41","type":"group","x":-640,"y":-164,"width":1620,"height":644,"label":"Pipeline"},
+		{"id":"05077c189067e433","type":"group","x":-100,"y":50,"width":740,"height":369,"label":"Toolset"},
+		{"id":"30d3ad42c87ff90a","type":"group","x":-613,"y":-102,"width":489,"height":521,"label":"Projects"},
+		{"id":"def96eaeb2fc075b","type":"group","x":-592,"y":-51,"width":448,"height":450,"color":"2","label":"Project"},
+		{"id":"9032a4bf788075f7","type":"group","x":-573,"y":139,"width":409,"height":240,"label":"Structure"},
+		{"id":"d80181602d0a014f","type":"group","x":160,"y":-102,"width":480,"height":108,"label":"Resources Library"},
+		{"id":"696488f3065b688b","type":"group","x":-640,"y":-321,"width":238,"height":108,"label":"Infrastracture"},
+		{"id":"7b4a0b2924a3477a","type":"group","x":-369,"y":-321,"width":238,"height":108,"label":"People"},
+		{"id":"9a6f04d2b1706558","type":"group","x":-100,"y":-102,"width":238,"height":108,"label":"Users"},
+		{"id":"4bdcaf045bf2b667","type":"group","x":-553,"y":259,"width":199,"height":100,"label":"Sequence"},
+		{"id":"7527b850f6eb5490","x":-71,"y":100,"width":181,"height":74,"type":"group","label":"Monitoring"},
+		{"id":"e9050432d9cf2a1c","type":"group","x":-70,"y":206,"width":180,"height":73,"label":"Logs"},
+		{"id":"d5498da482499ab3","type":"group","x":-71,"y":330,"width":181,"height":69,"label":"Backup"},
+		{"id":"1247632288675b38","type":"text","text":"STILL","x":-344,"y":279,"width":160,"height":50},
+		{"id":"7ed1cbea00e338ed","type":"text","text":"SHOT","x":-533,"y":279,"width":160,"height":50},
+		{"id":"8b38eea6e7e5e026","type":"text","text":"ASSETS","x":-553,"y":159,"width":160,"height":50},
+		{"id":"0d7e4f10119e2eed","type":"text","text":"METADATA","x":-573,"y":-21,"width":140,"height":50,"color":"5"},
+		{"id":"e5d5156bfab75baa","type":"text","text":"PRODUCTS","x":-413,"y":-21,"width":160,"height":50},
+		{"id":"84d9be1972fb3103","type":"text","text":"DATA","x":-413,"y":39,"width":160,"height":50},
+		{"id":"d0d798d64d69ae92","type":"text","text":"PITCH","x":-573,"y":39,"width":140,"height":50},
+		{"id":"1bcf155113299704","type":"text","text":"LOKI","x":-59,"y":218,"width":140,"height":50},
+		{"id":"393726f5c25c1593","type":"text","text":"GRAFANA","x":-58,"y":112,"width":140,"height":50},
+		{"id":"df80ec4cad9ca69a","type":"text","text":"HDRI","x":200,"y":-71,"width":100,"height":50},
+		{"id":"a45a65d3e63737c7","type":"text","text":"TEXTURES","x":320,"y":-71,"width":140,"height":50},
+		{"id":"6f792b90ca853437","type":"text","text":"MODELS","x":480,"y":-71,"width":140,"height":50},
+		{"id":"9ef53381d6711f09","type":"text","text":"PROXMOX","x":-58,"y":339,"width":140,"height":50},
+		{"id":"71110317f23b3dec","type":"text","text":"USER","x":-69,"y":-71,"width":160,"height":50,"color":"2"}
+	],
+	"edges":[]
+}
