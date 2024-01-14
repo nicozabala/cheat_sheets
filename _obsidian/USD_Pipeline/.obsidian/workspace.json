@@ -11,11 +11,14 @@
             "id": "d0d3ce0967bbdaf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Concepts/Sublayering.md",
-                "mode": "source",
-                "source": false
+                "file": "Studio Structure.canvas",
+                "viewState": {
+                  "x": 421.02056359482094,
+                  "y": 66.63776718749948,
+                  "zoom": -0.3883100614646188
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Sublayering.md",
+                "file": "Studio Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Sublayering.md",
+                "file": "Studio Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Sublayering.md"
+                "file": "Studio Structure.canvas"
               }
             }
           }
@@ -148,6 +151,8 @@
   },
   "active": "d0d3ce0967bbdaf8",
   "lastOpenFiles": [
+    "Compiling and Installation.md",
+    "Concepts/Sublayering.md",
     "Solaris/Nodes/LOP Sublayer.md",
     "Solaris/Nodes/LOP Reference.md",
     "Solaris/Nodes/LOP LightLinker.md",
@@ -172,8 +177,6 @@
     "Glossary/Stage.md",
     "Glossary/Collection.md",
     "Glossary/Composition.md",
-    "Solaris/LOPs.md",
-    "Solaris/Nodes/LOP RenderGeometrySettings.md",
     "Studio Structure.canvas"
   ]
 }
