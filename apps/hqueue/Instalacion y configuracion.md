@@ -21,8 +21,8 @@ Luego en fstab agrego los mounts
 
 ```
 sudo apt update
-sudo apt install cifs-tools
-sudo apt instlal nano
+sudo apt install cifs-utils
+sudo apt install nano
 ```
 
 ```
