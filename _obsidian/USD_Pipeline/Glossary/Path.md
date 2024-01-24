@@ -1,1 +1,1 @@
-Dentro de un USD/Layer es similar a una estructura de directorios. El path de un [[Prims]] es donde se ubicara en el [[Composition]] Arc.
+Dentro de un USD/Layer es similar a una estructura de directorios. El path de un [[Prim]] es donde se ubicara en el [[Composition]] Arc.

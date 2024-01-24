@@ -1,0 +1,1 @@
+La acción de escribir un valor para una [[Property]]/[[Metadata]]

@@ -1,4 +1,4 @@
-En este nodo se pueden establecer parametros especificos para un [[Prims]] en lo que respecta a render. Pueden setearse los samples, rayos primarios, etc.
+En este nodo se pueden establecer parametros especificos para un [[Prim]] en lo que respecta a render. Pueden setearse los samples, rayos primarios, etc.
 
 
 

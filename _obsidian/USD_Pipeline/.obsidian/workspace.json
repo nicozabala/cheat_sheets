@@ -4,25 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "973bba004c3714db",
+        "id": "ca150aa1db60bbe9",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d3ce0967bbdaf8",
+            "id": "d1c8f38f20ff8032",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Studio Structure.canvas",
-                "viewState": {
-                  "x": 291.4434890376205,
-                  "y": -6.6583557943512375,
-                  "zoom": -0.3883100614646188
-                }
+                "file": "Concepts/Asset-Structure Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca2fb54c6aa975c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Prim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dba6129441aece3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/Path (API).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f0c98b9789befb26",
@@ -88,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio Structure.canvas",
+                "file": "API/Path (API).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio Structure.canvas",
+                "file": "API/Path (API).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio Structure.canvas"
+                "file": "API/Path (API).md"
               }
             }
           }
@@ -149,10 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0d3ce0967bbdaf8",
+  "active": "dba6129441aece3e",
   "lastOpenFiles": [
-    "Compiling and Installation.md",
+    "Glossary/Path.md",
+    "API/Path (API).md",
+    "Glossary/Author.md",
+    "Glossary/Composition.md",
+    "Glossary/Stage.md",
+    "Glossary/Layer.md",
+    "Glossary/Property.md",
+    "Glossary/Prim.md",
+    "API/Overview.md",
+    "API/PcP.md",
+    "API/Sdf.md",
+    "Concepts/Asset-Structure Guidelines.md",
+    "API",
     "Concepts/Sublayering.md",
+    "Concepts/Variant Set.md",
+    "Toolset/usdview.md",
+    "Compiling and Installation.md",
+    "Glossary/Expression Variants.md",
+    "Glossary/extentsHint.md",
+    "Studio Structure.canvas",
     "Solaris/Nodes/LOP Sublayer.md",
     "Solaris/Nodes/LOP Reference.md",
     "Solaris/Nodes/LOP LightLinker.md",
@@ -160,23 +200,6 @@
     "Solaris/Nodes/LOP FogBox.md",
     "Solaris/Nodes/LOP AssignMaterial.md",
     "Solaris/Nodes/LOP Asset Reference.md",
-    "MaterialX/mtlxconductor.md",
-    "MaterialX/mtlxburley_diffuse_bsdf.md",
-    "MaterialX/mtlxartistic_ior.md",
-    "Glossary/Layer.md",
-    "Glossary/Layer Stack.md",
-    "Glossary/LIVRPS.md",
-    "Glossary/Metadata.md",
-    "Glossary/Opinions.md",
-    "Glossary/Overrides.md",
-    "Glossary/Path.md",
-    "Glossary/Payload.md",
-    "Glossary/Prims.md",
-    "Glossary/Properties.md",
-    "Glossary/Purpose.md",
-    "Glossary/Stage.md",
-    "Glossary/Collection.md",
-    "Glossary/Composition.md",
-    "Studio Structure.canvas"
+    "MaterialX/mtlxconductor.md"
   ]
 }
