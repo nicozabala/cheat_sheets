@@ -29,4 +29,6 @@ Si llega a fallar el download de boost, reemplazar lineas 730 a 737 del build_us
 
 **Agregar las System Environment Variables como dice al final del compilado**
 
+Para hacer que usdedit abra los archivos en otro editor distinto al default, en Windows hay que agregar una variable de entorno USD_EDITOR con el path del editor.
+
 Ojo porque en particular Houdini lee tambien PYTHONPATH y al ser de otra version de Python, esto genera errores. Lo comprobe limpiando la env PYTHONPATH y asi funciona el Hou en 3.10 cuando USD es 3.9, me queda ver como hacer para que co-existan ambos entornos.

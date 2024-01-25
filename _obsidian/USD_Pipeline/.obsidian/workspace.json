@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/Path (API).md",
+                "file": "Compiling and Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Path (API).md",
+                "file": "Compiling and Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/Path (API).md",
+                "file": "Compiling and Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Path (API).md"
+                "file": "Compiling and Installation.md"
               }
             }
           }
@@ -173,33 +173,32 @@
   },
   "active": "dba6129441aece3e",
   "lastOpenFiles": [
-    "Glossary/Path.md",
+    "Studio Structure.canvas",
+    "Compiling and Installation.md",
+    "API/Overview.md",
+    "Toolset/usdview.md",
     "API/Path (API).md",
+    "Glossary/Path.md",
     "Glossary/Author.md",
     "Glossary/Composition.md",
     "Glossary/Stage.md",
     "Glossary/Layer.md",
     "Glossary/Property.md",
     "Glossary/Prim.md",
-    "API/Overview.md",
     "API/PcP.md",
     "API/Sdf.md",
     "Concepts/Asset-Structure Guidelines.md",
     "API",
     "Concepts/Sublayering.md",
     "Concepts/Variant Set.md",
-    "Toolset/usdview.md",
-    "Compiling and Installation.md",
     "Glossary/Expression Variants.md",
     "Glossary/extentsHint.md",
-    "Studio Structure.canvas",
     "Solaris/Nodes/LOP Sublayer.md",
     "Solaris/Nodes/LOP Reference.md",
     "Solaris/Nodes/LOP LightLinker.md",
     "Solaris/Nodes/LOP Light.md",
     "Solaris/Nodes/LOP FogBox.md",
     "Solaris/Nodes/LOP AssignMaterial.md",
-    "Solaris/Nodes/LOP Asset Reference.md",
-    "MaterialX/mtlxconductor.md"
+    "Solaris/Nodes/LOP Asset Reference.md"
   ]
 }
