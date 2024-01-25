@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiling and Installation.md",
+                "file": "API/Path (API).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiling and Installation.md",
+                "file": "API/Path (API).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiling and Installation.md",
+                "file": "API/Path (API).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiling and Installation.md"
+                "file": "API/Path (API).md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "dba6129441aece3e",
   "lastOpenFiles": [
-    "Studio Structure.canvas",
     "Compiling and Installation.md",
+    "Studio Structure.canvas",
     "API/Overview.md",
     "Toolset/usdview.md",
     "API/Path (API).md",
