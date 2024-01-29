@@ -11,8 +11,12 @@
             "id": "85be39034550ba58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Asset-Structure Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 366.50746154785156
   },
   "right": {
     "id": "f0c98b9789befb26",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concepts/Asset-Structure Guidelines.md"
+              }
             }
           }
         ]
@@ -140,14 +148,18 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
+    "Concepts/Variant Set.md",
+    "Concepts/Sublayering.md",
     "Concepts/Asset-Structure Guidelines.md",
-    "Glossary/Prim.md",
     "API/Data Containers (Prim & Properties).md",
     "Pasted image 20240126142156.png",
-    "API/Path (API).md",
     "Compiling and Installation.md",
-    "Studio Structure.canvas",
+    "API/Path (API).md",
     "API/Overview.md",
+    "API/Sdf.md",
+    "API/PcP.md",
+    "Glossary/Prim.md",
+    "Studio Structure.canvas",
     "Toolset/usdview.md",
     "Glossary/Path.md",
     "Glossary/Author.md",
@@ -155,11 +167,7 @@
     "Glossary/Stage.md",
     "Glossary/Layer.md",
     "Glossary/Property.md",
-    "API/PcP.md",
-    "API/Sdf.md",
     "API",
-    "Concepts/Sublayering.md",
-    "Concepts/Variant Set.md",
     "Glossary/Expression Variants.md",
     "Glossary/extentsHint.md",
     "Solaris/Nodes/LOP Sublayer.md",
