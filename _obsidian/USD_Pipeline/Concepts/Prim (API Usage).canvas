@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"4b0f919c18a2630d","type":"text","text":"prim\n","x":-460,"y":-290,"width":108,"height":60},
+		{"id":"ea32038fa7dc70e2","type":"text","text":"HasProperty()","x":200,"y":-320,"width":300,"height":60,"color":"5"},
+		{"id":"c925ed646680d191","type":"text","text":"HasRelationship()","x":200,"y":-260,"width":300,"height":60,"color":"5"},
+		{"id":"d064a0044c323771","type":"text","text":"HasVariantSets()","x":200,"y":-200,"width":300,"height":60,"color":"5"},
+		{"id":"82bf7ba7e573e2ef","type":"text","text":"IsActive()","x":200,"y":-110,"width":300,"height":60,"color":"5"},
+		{"id":"7cac327a5717c821","type":"text","text":"IsModel()","x":200,"y":-50,"width":300,"height":60,"color":"5"},
+		{"id":"77e4f31f01379fa7","type":"text","text":"GetPrimPath()","x":200,"y":10,"width":300,"height":60,"color":"5"},
+		{"id":"a83c875aff970634","type":"text","text":"### Otros metodos utiles","x":200,"y":-390,"width":300,"height":60},
+		{"id":"0c8bf0b1cd085536","type":"text","text":"GetPrimDefinition()","x":-80,"y":-720,"width":250,"height":60},
+		{"id":"7dc9696f1306701f","type":"text","text":"Devuelve la clase que esta usando el prim. No se suele usar porque generalmente se trabaja sobre las instancias","x":-80,"y":-660,"width":250,"height":160},
+		{"id":"7367bd2120525b87","type":"text","text":"Devuelve la lista de propiedades, tambien se pueden usar los siguientes para filtrar:","x":-80,"y":-160,"width":250,"height":140},
+		{"id":"03c23dc532d13299","type":"text","text":"GetAttributes()","x":-80,"y":-20,"width":250,"height":50,"color":"3"},
+		{"id":"3fa6e2c338c5122f","type":"text","text":"GetRelationships()","x":-80,"y":30,"width":250,"height":60,"color":"3"},
+		{"id":"3692c2f842ba004d","type":"text","text":"GetProperties()","x":-80,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"993ba3703d6403f7","type":"text","text":"GetTypeName()","x":-80,"y":-320,"width":250,"height":60,"color":"4"},
+		{"id":"7842430000fc9fb5","type":"text","text":"### Principales","x":-80,"y":-390,"width":250,"height":60},
+		{"id":"9023cafb09025059","type":"text","text":"# +","x":-80,"y":240,"width":70,"height":75,"color":"5"},
+		{"id":"3157aca313c541fb","type":"text","text":"https://docs.omniverse.nvidia.com/kit/docs/pxr-usd-api/105.0.2/pxr/Usd.html#management","x":-10,"y":240,"width":400,"height":74},
+		{"id":"dc2283019849838c","x":200,"y":90,"width":329,"height":50,"color":"5","type":"text","text":"GetPrimTypeInfo().GetTypeName()"}
+	],
+	"edges":[
+		{"id":"36f46a27dedfe8e6","fromNode":"4b0f919c18a2630d","fromSide":"right","toNode":"0c8bf0b1cd085536","toSide":"left"},
+		{"id":"b9cf2cb966b7c536","fromNode":"4b0f919c18a2630d","fromSide":"right","toNode":"3692c2f842ba004d","toSide":"left"},
+		{"id":"27d87b88207a99ff","fromNode":"4b0f919c18a2630d","fromSide":"right","toNode":"993ba3703d6403f7","toSide":"left"}
+	]
+}

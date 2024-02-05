@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0b3782d3db93922c","type":"text","text":"Schema","x":-500,"y":-208,"width":250,"height":60,"color":"6"},
+		{"id":"ba9af3bf51c9ee3e","type":"text","text":"Son como las clases en OOP que los prim en una jerarquia instancian. Proveen propiedades (con valores fallback) y metadata como tambien metodos. (Get(), Set(), etc) para manipular la data de los prim.","x":-500,"y":-140,"width":250,"height":280},
+		{"id":"f9edb6347e9b3733","type":"text","text":"Non-Applied","x":340,"y":-240,"width":250,"height":60,"color":"2"},
+		{"id":"ae115fb6948cdbad","type":"text","text":"Agregan metodos para manipular data de los prim como propiedades y core metadata (kind / clips)","x":340,"y":-171,"width":250,"height":171},
+		{"id":"46645ae099659c14","type":"text","text":"Applied","x":340,"y":80,"width":280,"height":60,"color":"2"},
+		{"id":"f4a08bfacf74954c","type":"text","text":"Suplementan a los Typed Schemas agregandoles metadata/propiedades y metodos para editarlas.\n\nSe puede chequear mediante\nprim.HasAPI(\\<SchemaClassName\\>)","x":341,"y":151,"width":279,"height":249},
+		{"id":"fc4405e86fd5e5de","type":"text","text":"El Schema compuesto puede accederse mediante prim.GetPrimDefinition(). Esto define el \"full type signature\", similar a la herencia multiple de clases en OOP. class (\\<TypedSchemaClass>, \\<AppliedAPISchemaA>, \\<AppliedAPISchemaA>)","x":-500,"y":151,"width":250,"height":349},
+		{"id":"c029540e20480e8f","type":"text","text":"Se pueden crear nuevas Schemas mediante plugins","x":-500,"y":520,"width":250,"height":80},
+		{"id":"0180b7a5b9d1be19","x":-908,"y":-302,"width":250,"height":60,"type":"text","text":"**Schema Type Name:**\nEl nombre del schema"},
+		{"id":"bf01db9dbdb663a4","x":-1274,"y":-134,"width":250,"height":60,"type":"text","text":"UsdGeomCube, UsdGeomImageable, etc..."},
+		{"id":"ec73c625420b4c5f","x":-908,"y":-151,"width":243,"height":94,"type":"text","text":"**Tf.Type.typeName:**\nEl nombre en el registro\n"},
+		{"id":"b34025a767128067","x":-1374,"y":-297,"width":350,"height":50,"type":"text","text":"Cube, Imageable, SkelBindingAPI..."},
+		{"id":"f903a514e0fc56ea","x":-1236,"y":40,"width":657,"height":331,"type":"text","text":"Enlistar todos los derivados de Usd.Typed\n```python\nregistry = Plug.Registry() print(\">>>>>\", \"Typed Schemas\")\nfor type_name in registry.GetAllDerivedTypes(Usd.Typed):\n\tprint(type_name)\n```\n\nEnlistar los derivados de APISchema\n```python\nfor type_name in registry.GetAllDerivedTypes(Usd.APISchemaBase):\n\tprint(type_name)\n```"},
+		{"id":"13e7cfd2db92d78c","x":-579,"y":-750,"width":400,"height":400,"type":"file","file":"Concepts/UsdSchemaBase Inheritance.canvas"},
+		{"id":"f13628fedd02f6e9","type":"text","text":"Definen el \"type\" (En OOP seria la main class del prim).\nProveen metadata/properties y metodos para editarlas.\nSe pueden validar con prim.IsA(\\<SchemaClassName\\>)","x":-40,"y":-503,"width":304,"height":231},
+		{"id":"2cd2433b0d3a36ea","type":"text","text":"Typed Schemas","x":-39,"y":-572,"width":303,"height":60,"color":"4"},
+		{"id":"8731f9c3b713d41e","type":"text","text":"API Schemas","x":-40,"y":-74,"width":303,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"b72992583ff4465b","fromNode":"0b3782d3db93922c","fromSide":"right","toNode":"2cd2433b0d3a36ea","toSide":"left"},
+		{"id":"c686ef2acbedbf0c","fromNode":"0b3782d3db93922c","fromSide":"right","toNode":"8731f9c3b713d41e","toSide":"left"},
+		{"id":"81f49c468ff0ccf0","fromNode":"8731f9c3b713d41e","fromSide":"right","toNode":"f9edb6347e9b3733","toSide":"left"},
+		{"id":"b61fd36801665cbf","fromNode":"8731f9c3b713d41e","fromSide":"right","toNode":"46645ae099659c14","toSide":"left"},
+		{"id":"1626c55bb5e0ba26","fromNode":"0b3782d3db93922c","fromSide":"left","toNode":"0180b7a5b9d1be19","toSide":"right"},
+		{"id":"1d7386c1328926d2","fromNode":"0b3782d3db93922c","fromSide":"left","toNode":"ec73c625420b4c5f","toSide":"right"},
+		{"id":"58c0e16b241d6716","fromNode":"0180b7a5b9d1be19","fromSide":"left","toNode":"b34025a767128067","toSide":"right"},
+		{"id":"647cb498193b7bbb","fromNode":"ec73c625420b4c5f","fromSide":"left","toNode":"bf01db9dbdb663a4","toSide":"right"}
+	]
+}
