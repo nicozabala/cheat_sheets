@@ -11,14 +11,11 @@
             "id": "85be39034550ba58",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Concepts/Schemas.canvas",
-                "viewState": {
-                  "x": -377,
-                  "y": -75,
-                  "zoom": -1.0933286689542527
-                }
+                "file": "Glossary/Metadata.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Schemas.canvas",
+                "file": "Glossary/Metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Schemas.canvas",
+                "file": "Glossary/Metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Schemas.canvas"
+                "file": "Glossary/Metadata.md"
               }
             }
           }
@@ -151,10 +148,11 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
+    "Glossary/Opinions.md",
+    "Concepts/Schemas.canvas",
     "Concepts/Sublayering.md",
     "Concepts/Variant Set.md",
     "Concepts/UsdSchemaBase Inheritance.canvas",
-    "Concepts/Schemas.canvas",
     "Untitled.canvas",
     "2024-02-05.md",
     "Concepts/Prim (API Usage).canvas",
