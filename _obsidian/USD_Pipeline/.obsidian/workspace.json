@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Metadata.md",
+                "file": "Compiling and Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Metadata.md",
+                "file": "Compiling and Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Metadata.md",
+                "file": "Compiling and Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Metadata.md"
+                "file": "Compiling and Installation.md"
               }
             }
           }
@@ -148,27 +148,30 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
-    "Glossary/Opinions.md",
+    "Model.md",
+    "API/Data Containers (Prim & Properties).md",
+    "Untitled.canvas",
+    "API/Overview.md",
+    "API/Path (API).md",
+    "API/PcP.md",
+    "API/Prim (API).md",
     "Concepts/Schemas.canvas",
     "Concepts/Sublayering.md",
-    "Concepts/Variant Set.md",
     "Concepts/UsdSchemaBase Inheritance.canvas",
-    "Untitled.canvas",
-    "2024-02-05.md",
-    "Concepts/Prim (API Usage).canvas",
+    "Concepts/Variant Set.md",
+    "Toolset/usdview.md",
     "Concepts/Asset-Structure Guidelines.md",
-    "API/Prim (API).md",
+    "Concepts/Prim (API Usage).canvas",
+    "Compiling and Installation.md",
+    "Useful Links.md",
+    "Pasted image 20240126142156.png",
+    "Glossary/Metadata.md",
+    "Glossary/Opinions.md",
+    "2024-02-05.md",
     "API/Sdf.md",
     "Glossary/Stage Traversal.md",
-    "API/Data Containers (Prim & Properties).md",
-    "Pasted image 20240126142156.png",
-    "Compiling and Installation.md",
-    "API/Path (API).md",
-    "API/Overview.md",
-    "API/PcP.md",
     "Glossary/Prim.md",
     "Studio Structure.canvas",
-    "Toolset/usdview.md",
     "Glossary/Path.md",
     "Glossary/Author.md",
     "Glossary/Composition.md",
@@ -176,10 +179,6 @@
     "Glossary/Layer.md",
     "Glossary/Property.md",
     "API",
-    "Glossary/Expression Variants.md",
-    "Glossary/extentsHint.md",
-    "Solaris/Nodes/LOP Sublayer.md",
-    "Solaris/Nodes/LOP Reference.md",
-    "Solaris/Nodes/LOP LightLinker.md"
+    "Glossary/Expression Variants.md"
   ]
 }
