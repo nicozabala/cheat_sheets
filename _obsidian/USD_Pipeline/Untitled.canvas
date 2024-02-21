@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b7c2231740e5cd36","x":-518,"y":-331,"width":250,"height":60,"type":"text","text":"Jenkins Controller"},
+		{"id":"2421eea38be1d9ac","x":-1040,"y":-540,"width":250,"height":60,"type":"text","text":"Portainer"},
+		{"id":"abd21e772de30529","x":-518,"y":-200,"width":250,"height":60,"type":"text","text":"Jenkins Agent"}
+	],
+	"edges":[
+		{"id":"03f5e4deacf3a933","fromNode":"2421eea38be1d9ac","fromSide":"bottom","toNode":"b7c2231740e5cd36","toSide":"left"},
+		{"id":"a1a1fc569cd365c1","fromNode":"2421eea38be1d9ac","fromSide":"bottom","toNode":"abd21e772de30529","toSide":"left"}
+	]
+}
