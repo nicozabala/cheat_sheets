@@ -13,7 +13,7 @@ Ponerle un ID y pegar la PrivateKey
 
 Ahora ir al proyecto que se desea acceder en Github, ir a Settings > Deploy Keys y pegar la Public Key.
 
-Siguiente paso es muy **importante!** Conectarse a la consola de jenkins (ssh, portainer, exec, etc) e intentar conectarse al repositorio para generar los fingerprints!
+Siguiente paso es muy **importante!** Conectarse a la consola de jenkins (ssh, portainer, exec, etc) e intentar conectarse al repositorio para generar los fingerprints! ***Atento que esto hay que hacerlo en todos los agents***
 
 ```bash
 git ls-remote -h git@github.com:nicozabala/dcore.git
