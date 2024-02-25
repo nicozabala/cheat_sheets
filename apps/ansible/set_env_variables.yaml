@@ -1,0 +1,17 @@
+---
+- name: Set LALA environment variable
+  hosts: your_hosts
+  tasks:
+    - name: Set LALA environment variable on Linux
+      ansible.builtin.shell:
+        cmd: "export LALA='Hello World'"
+      environment:
+        LALA: "Hello World"
+      when: "ansible_os_family == 'Linux'"
+
+    - name: Set LALA environment variable on Windows
+      ansible.windows.win_environment:
+        name: LALA
+        value: "Hello World"
+        state: present
+      when: "ansible_os_family == 'Windows'"
