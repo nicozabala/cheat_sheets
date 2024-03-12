@@ -11,14 +11,11 @@
             "id": "85be39034550ba58",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Concepts/UsdSchemaBase Inheritance.canvas",
-                "viewState": {
-                  "x": 1345.5,
-                  "y": -524,
-                  "zoom": -0.7503958768078202
-                }
+                "file": "Concepts/Asset-Structure Guidelines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/UsdSchemaBase Inheritance.canvas",
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/UsdSchemaBase Inheritance.canvas",
+                "file": "Concepts/Asset-Structure Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/UsdSchemaBase Inheritance.canvas"
+                "file": "Concepts/Asset-Structure Guidelines.md"
               }
             }
           }
@@ -151,8 +148,10 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
-    "Concepts/Schemas.canvas",
     "Concepts/Prim (API Usage).canvas",
+    "Concepts/Schemas.canvas",
+    "Concepts/Sublayering.md",
+    "Concepts/UsdSchemaBase Inheritance.canvas",
     "Concepts/Asset-Structure Guidelines.md",
     "Untitled.canvas",
     "API/Data Containers (Prim & Properties).md",
@@ -162,8 +161,6 @@
     "API/Prim (API).md",
     "Compiling and Installation.md",
     "Model.md",
-    "Concepts/Sublayering.md",
-    "Concepts/UsdSchemaBase Inheritance.canvas",
     "Concepts/Variant Set.md",
     "Toolset/usdview.md",
     "Useful Links.md",
