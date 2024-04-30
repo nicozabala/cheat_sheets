@@ -15,6 +15,8 @@ Ahora ir al proyecto que se desea acceder en Github, ir a Settings > Deploy Keys
 
 Siguiente paso es muy **importante!** Conectarse a la consola de jenkins (ssh, portainer, exec, etc) e intentar conectarse al repositorio para generar los fingerprints! ***Atento que esto hay que hacerlo en todos los agents***
 
+NOTA: Chequear que el usuario que genera los fingerprints sea el que usa jenkins
+
 ```bash
 git ls-remote -h git@github.com:nicozabala/dcore.git
 ```

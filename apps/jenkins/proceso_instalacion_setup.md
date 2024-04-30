@@ -4,6 +4,11 @@ En portainer
 -Crear volumen para jenkins
 -Crear container y exponer puertos 8080:8080 y 50000:50000
 
+
+```sh
+sudo docker run -d --network host -v jenkins_home:/var/jenkins_home --name jenkins_server jenkins/jenkins:latest
+```
+
 -Conectarse
 -Hacer el initial setup
 
