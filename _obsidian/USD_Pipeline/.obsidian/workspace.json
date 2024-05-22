@@ -11,14 +11,11 @@
             "id": "85be39034550ba58",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Concepts/Schemas.canvas",
-                "viewState": {
-                  "x": -780.1689021077963,
-                  "y": 935.7354194122868,
-                  "zoom": -0.09701921017645343
-                }
+                "file": "API/Prim (API).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Schemas.canvas",
+                "file": "API/Prim (API).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Schemas.canvas",
+                "file": "API/Prim (API).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Schemas.canvas"
+                "file": "API/Prim (API).md"
               }
             }
           }
@@ -151,36 +148,37 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
-    "Concepts/UsdSchemaBase Inheritance.canvas",
+    "API/PcP.md",
+    "API/Path (API).md",
+    "API/Overview.md",
+    "API/Data Containers (Prim & Properties).md",
     "Concepts/Asset-Structure Guidelines.md",
-    "Concepts/Prim (API Usage).canvas",
+    "Glossary/Expression Variants.md",
+    "Glossary/extentsHint.md",
+    "Glossary/Composition.md",
+    "Glossary/Collection.md",
+    "Glossary/Author.md",
+    "Glossary/Stage Traversal.md",
+    "Glossary/USD.md",
+    "Toolset/usdview.md",
+    "Compiling and Installation.md",
+    "2024-02-05.md",
+    "Model.md",
+    "Untitled.canvas",
     "Concepts/Schemas.canvas",
+    "Concepts/UsdSchemaBase Inheritance.canvas",
+    "Concepts/Prim (API Usage).canvas",
     "Concepts/Sublayering.md",
     "Concepts/Variant Set.md",
     "Glossary/LIVRPS.md",
     "Glossary/Layer Stack.md",
     "Glossary/Layer.md",
     "Glossary/Kind.md",
-    "Glossary/extentsHint.md",
-    "Glossary/Expression Variants.md",
-    "Glossary/Composition.md",
-    "Glossary/Collection.md",
-    "Glossary/Author.md",
     "Solaris/Nodes/LOP Sublayer.md",
     "Solaris/Nodes/LOP Component.md",
     "Solaris/Nodes/LOP AssignMaterial.md",
     "Solaris/Nodes/LOP Asset Reference.md",
-    "Toolset/usdview.md",
-    "Useful Links.md",
-    "Untitled.canvas",
     "Pasted image 20240126142156.png",
-    "Model.md",
-    "Compiling and Installation.md",
-    "2024-02-05.md",
-    "API/Path (API).md",
-    "API/PcP.md",
-    "API/Prim (API).md",
-    "API/Sdf.md",
     "Studio Structure.canvas",
     "API"
   ]
