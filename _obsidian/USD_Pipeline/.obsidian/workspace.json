@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solaris/LOPs.md",
+                "file": "Glossary/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solaris/LOPs.md"
+                "file": "Glossary/Collection.md"
               }
             }
           }
@@ -148,37 +148,36 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
+    "Glossary/Author.md",
+    "API/Overview.md",
+    "API/Data Containers (Prim & Properties).md",
+    "Useful Links.md",
+    "Untitled.canvas",
+    "Pasted image 20240126142156.png",
+    "Model.md",
+    "Compiling and Installation.md",
+    "Solaris/Workflows/Light Geometry.md",
     "Solaris/Workflows/GeoVariants Animal Login.md",
     "Solaris/Workflows/Geometry Subdivision.md",
     "Solaris/Workflows/Asset Directory File Structure.md",
-    "Solaris/Workflows/Light Geometry.md",
+    "Concepts/Schemas.canvas",
+    "Concepts/Sublayering.md",
+    "Solaris/LOPs.md",
     "Toolset/usdview.md",
-    "Useful Links.md",
-    "Untitled.canvas",
     "Glossary/Collection.md",
     "Glossary/Layer.md",
     "Glossary/Composition.md",
-    "Glossary/Author.md",
     "Concepts/Variant Set.md",
     "Concepts/UsdSchemaBase Inheritance.canvas",
-    "Concepts/Sublayering.md",
-    "Concepts/Schemas.canvas",
     "Concepts/Prim (API Usage).canvas",
     "Concepts/Asset-Structure Guidelines.md",
     "API/Sdf.md",
     "API/Prim (API).md",
     "API/PcP.md",
     "API/Path (API).md",
-    "API/Overview.md",
-    "API/Data Containers (Prim & Properties).md",
     "MaterialX/mtlxartistic_ior.md",
     "MaterialX/mtlxburley_diffuse_bsdf.md",
-    "Pasted image 20240126142156.png",
-    "Model.md",
-    "Compiling and Installation.md",
     "Glossary/Payload.md",
-    "Glossary/Prim.md",
-    "Glossary/Expression Variants.md",
     "Studio Structure.canvas",
     "API"
   ]
