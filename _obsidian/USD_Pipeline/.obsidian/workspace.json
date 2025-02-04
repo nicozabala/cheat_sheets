@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/Prim (API).md",
+                "file": "Toolset/usdview.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "usdview"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Prim (API).md",
+                "file": "Toolset/usdview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for usdview"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/Prim (API).md",
+                "file": "Toolset/usdview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from usdview"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Prim (API).md"
-              }
+                "file": "Toolset/usdview.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of usdview"
             }
           }
         ]
@@ -148,37 +164,37 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
-    "API/PcP.md",
-    "API/Path (API).md",
-    "API/Overview.md",
-    "API/Data Containers (Prim & Properties).md",
-    "Concepts/Asset-Structure Guidelines.md",
-    "Glossary/Expression Variants.md",
-    "Glossary/extentsHint.md",
-    "Glossary/Composition.md",
+    "Glossary/Path.md",
+    "Glossary/Payload.md",
+    "Glossary/Stage.md",
     "Glossary/Collection.md",
     "Glossary/Author.md",
-    "Glossary/Stage Traversal.md",
-    "Glossary/USD.md",
-    "Toolset/usdview.md",
-    "Compiling and Installation.md",
-    "2024-02-05.md",
     "Model.md",
-    "Untitled.canvas",
     "Concepts/Schemas.canvas",
-    "Concepts/UsdSchemaBase Inheritance.canvas",
-    "Concepts/Prim (API Usage).canvas",
     "Concepts/Sublayering.md",
-    "Concepts/Variant Set.md",
-    "Glossary/LIVRPS.md",
-    "Glossary/Layer Stack.md",
-    "Glossary/Layer.md",
-    "Glossary/Kind.md",
-    "Solaris/Nodes/LOP Sublayer.md",
-    "Solaris/Nodes/LOP Component.md",
-    "Solaris/Nodes/LOP AssignMaterial.md",
-    "Solaris/Nodes/LOP Asset Reference.md",
+    "Concepts/Prim (API Usage).canvas",
+    "Concepts/Asset-Structure Guidelines.md",
+    "Solaris/Workflows/Light Geometry.md",
+    "Solaris/Nodes/LOP Light.md",
+    "Useful Links.md",
+    "Untitled.canvas",
     "Pasted image 20240126142156.png",
+    "Compiling and Installation.md",
+    "API/Overview.md",
+    "API/Prim (API).md",
+    "API/Sdf.md",
+    "Glossary/Composition.md",
+    "Concepts/Variant Set.md",
+    "Concepts/UsdSchemaBase Inheritance.canvas",
+    "API/PcP.md",
+    "API/Path (API).md",
+    "API/Data Containers (Prim & Properties).md",
+    "Solaris/Nodes/LOP FogBox.md",
+    "MaterialX/mtlxartistic_ior.md",
+    "Glossary/USD.md",
+    "Glossary/extentsHint.md",
+    "Glossary/Kind.md",
+    "Glossary/Expression Variants.md",
     "Studio Structure.canvas",
     "API"
   ]
