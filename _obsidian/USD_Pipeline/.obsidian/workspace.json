@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "API/PcP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PcP"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "API/PcP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PcP"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Collection.md",
+                "file": "API/PcP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PcP"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Collection.md"
-              }
+                "file": "API/PcP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PcP"
             }
           }
         ]
@@ -148,9 +170,20 @@
   },
   "active": "85be39034550ba58",
   "lastOpenFiles": [
-    "Glossary/Author.md",
     "API/Overview.md",
     "API/Data Containers (Prim & Properties).md",
+    "Glossary/Author.md",
+    "Concepts/Variant Set.md",
+    "Concepts/UsdSchemaBase Inheritance.canvas",
+    "Concepts/Sublayering.md",
+    "Concepts/Schemas.canvas",
+    "Concepts/Prim (API Usage).canvas",
+    "Concepts/Asset-Structure Guidelines.md",
+    "API/Sdf.md",
+    "API/Prim (API).md",
+    "API/PcP.md",
+    "API/Path (API).md",
+    "Glossary/Collection.md",
     "Useful Links.md",
     "Untitled.canvas",
     "Pasted image 20240126142156.png",
@@ -160,21 +193,10 @@
     "Solaris/Workflows/GeoVariants Animal Login.md",
     "Solaris/Workflows/Geometry Subdivision.md",
     "Solaris/Workflows/Asset Directory File Structure.md",
-    "Concepts/Schemas.canvas",
-    "Concepts/Sublayering.md",
     "Solaris/LOPs.md",
     "Toolset/usdview.md",
-    "Glossary/Collection.md",
     "Glossary/Layer.md",
     "Glossary/Composition.md",
-    "Concepts/Variant Set.md",
-    "Concepts/UsdSchemaBase Inheritance.canvas",
-    "Concepts/Prim (API Usage).canvas",
-    "Concepts/Asset-Structure Guidelines.md",
-    "API/Sdf.md",
-    "API/Prim (API).md",
-    "API/PcP.md",
-    "API/Path (API).md",
     "MaterialX/mtlxartistic_ior.md",
     "MaterialX/mtlxburley_diffuse_bsdf.md",
     "Glossary/Payload.md",
